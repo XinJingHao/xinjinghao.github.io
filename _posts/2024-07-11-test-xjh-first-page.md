@@ -25,9 +25,16 @@ tags:
 
 这算不算开挂1？
 <div align="center">
-  <a ><img width="300px" height="auto" src="https://raw.githubusercontent.com/XinJingHao/Images/main/Sparrow_V0/LOGO%20sparrow.jpg"></a>
+<a ><img width="300px" height="auto" src="https://raw.githubusercontent.com/XinJingHao/Images/main/Sparrow_V0/LOGO%20sparrow.jpg"></a>
+<p style="color: red;">This is the logo of Sparrow.</p>
 </div>
 
 这算不算开挂2？
 ![](https://raw.githubusercontent.com/XinJingHao/Images/main/Sparrow_V0/LOGO%20sparrow.jpg)
+
+动图行不行？
+<div align="center">
+<a ><img width="600px" height="auto" src="https://raw.githubusercontent.com/XinJingHao/Images/main/Sparrow_V1/render.gif"></a>
+<p style="color: green;">Dynamic Test</p>
+</div>
 

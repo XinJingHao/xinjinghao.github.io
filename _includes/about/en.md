@@ -1,38 +1,80 @@
-Hey, I am Huang, Xuan (a.k.a. _@huxpro_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
+**Hi, I'm Xin Jinghao (or Cangxi on Social Media), a PhD student currently being tortured by the graduation season...**
 
-I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
+> I'm currently job hunting. If you have any good job recommendations, please contact me!! [xjhzsj2019@sjtu.edu.cn](mailto:xjhzsj2019@sjtu.edu.cn)
 
-I also worked on the [Hermes JavaScript Engine](https://hermesengine.dev/), some other projects under the [Reality Labs (Research)](https://tech.fb.com/ar-vr/), and [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts at Meta (Facebook).
+-----------
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages, mainly supervised by [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/)) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
 
-##### Appearence
+I'm currently studying in the Department of Automation at Shanghai Jiao Tong University, with research areas in end-to-end local path planning (deep reinforcement learning) and real-time global path planning (optimization algorithms).
 
-- [React Labs: What We've Been Working On – June 2022][12] · React Blog · 2022
-- [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
-- [Toward Hermes being the Default][11] · React Native Blog · 2021
-- React Native 0.64 with Hermes for iOS · [The RN Show Podcast Ep #5](https://www.callstack.com/podcast-react-native-show) · 2021
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
-[10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
-[11]: https://youtu.be/lGEMwh32soc
-[12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
+
+I love motocycle and adventure. I've solo motorcycle toured 8000 Km+. The most unforgettable cycling trip was from Chongqing back to Shanghai starting on 2022/08/20, right after the pandemic ended. It was my first motorcycle tour, and I felt like a little bird~
+
+> "I love the desert, the desert enveloped by the setting sun"
+> "I love the wind, the evening breeze carrying freedom"
+
+##### My Trajectory
+
+- 1996 --- XinJinghao.Init()
+- 2002 --- Shuanghu Elementary School, a life of mischief
+- 2009 --- Yubei Middle School, sudden awakening
+- 2015 --- Jilin University, my youth, not without scars
+- 2016 --- Met her, well...
+- 2019 --- Shanghai Jiao Tong University, embarking on the PhD journey
+- 2023 --- Nanyang Technological University, as a visting student in Singapore, dialoguing with myself in solitude
+- 2024 --- Back to SJTU, preparing for graduation, time to show my true skills
+  Some
+
+##### My Passion Projects
+
+- **[Deep-Reinforcement-Learning-Algorithms-with-Pytorch](https://github.com/XinJingHao/Deep-Reinforcement-Learning-Algorithms-with-Pytorch)**
+
+- **[Color](https://github.com/XinJingHao/Color)**
+
+- **[Sparrow-V1](https://github.com/XinJingHao/Sparrow-V1)**
+
+- **[Actor-Sharer-Learner](https://github.com/XinJingHao/Actor-Sharer-Learner)**
+
+- **[OkayPlan](https://github.com/XinJingHao/OkayPlan)**
+
+##### Publications
+
+- [Xin J, Kim J, Li Z, et al. Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity. Engineering Applications of Artificial Intelligence.][1] 「Under Review」
+
+- [Xin J, Kim J, Chu S, et al. OkayPlan: Obstacle Kinematics Augmented Dynamic real-time path planning via particle swarm optimization[J]. Ocean Engineering, 2024, 303: 117841.][2]
+
+- [Xin J, Li Z, Zhang Y, et al. Efficient Real-Time Path Planning with Self-Evolving Particle Swarm Optimization in Dynamic Scenarios[J]. Unmanned Systems, 2024, 12(02): 215-226.][3]
+
+- [Xin J, Yu L, Wang J, et al. A diversity-based parallel particle swarm optimization for nonconvex economic dispatch problem[J]. Transactions of the Institute of Measurement and Control, 2023, 45(3): 452-465.][4]
+
+- [Li Z, Xin J, Lil N. Autonomous exploration and mapping for mobile robots via cumulative curriculum reinforcement learning[C]//2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 7495-7500.][5]
+
+- [Li Z, Xin J, Li N. End-to-end autonomous exploration for mobile robots in unknown environments through deep reinforcement learning[C]//2022 IEEE International Conference on Real-time Computing and Robotics. IEEE, 2022: 475-480.][6]
+
+- [Qi Y, Xin J, Li N. An Expansion-based Document Ranking Framework Incorporated with Core Concern Capturing[C]//2022 5th International Conference on Intelligent Autonomous Systems (ICoIAS). IEEE, 2022: 370-375.][7]
+
+- [J Wang, J Zhang, N Jiang, N Song, J Xin, N Li. Online health assessment and fault prediction for wind turbine generator[J]. Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering, 2022, 236(4): 718-730.][8]
+
+- 辛靖豪,于丽英,李柠. 并行异步粒子群优化方法,系统及电子设备, CN112949154B.
+
+<!--
+- [掘金 AMA：我是前端娱乐圈的老人 & Facebook 实习生 -- 黄玄][19] · 2018
+-->
+
+[1]: https://arxiv.org/abs/2305.04180
+
+[2]:https://www.sciencedirect.com/science/article/abs/pii/S002980182401179X
+
+[3]:https://www.worldscientific.com/doi/abs/10.1142/S230138502441005X
+
+[4]:https://journals.sagepub.com/doi/10.1177/01423312221110999
+
+[5]:https://ieeexplore.ieee.org/abstract/document/10342066
+
+[6]:https://ieeexplore.ieee.org/document/9872253
+
+[7]:https://ieeexplore.ieee.org/document/9931242
+
+[8]:https://journals.sagepub.com/doi/10.1177/09596518211056165

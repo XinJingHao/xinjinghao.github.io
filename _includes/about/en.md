@@ -4,13 +4,17 @@
 
 -----------
 
-
-
 I'm currently studying in the Department of Automation at Shanghai Jiao Tong University, with research areas in end-to-end local path planning (deep reinforcement learning) and real-time global path planning (optimization algorithms).
 
 
 
 I love motocycle and adventure. I've solo motorcycle toured 8000 Km+. The most unforgettable cycling trip was from Chongqing back to Shanghai starting on 2022/08/20, right after the pandemic ended. It was my first motorcycle tour, and I felt like a little bird~
+
+
+
+I like collecting rocks. Every time I reach a new place, I pick up a rock from there. I hope to gather rocks from all around the world, place them in my display cabinet, and label them with tags and photos.
+
+
 
 > "I love the desert, the desert enveloped by the setting sun"
 > "I love the wind, the evening breeze carrying freedom"

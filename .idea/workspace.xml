@@ -19,6 +19,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,11 +31,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720765878165</updated>
-      <workItem from="1720765881980" duration="1990000" />
+      <workItem from="1720765881980" duration="3347000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="201" key="SettingsEditor" timestamp="1720768589141">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="201" key="SettingsEditor/0.0.2048.1112/-1920.0.1536.824@0.0.2048.1112" timestamp="1720768589141" />
   </component>
 </project>

@@ -5,8 +5,6 @@ title:      "DPPSO: A diversity-based parallel particle swarm optimization algor
 
 subtitle:   "PSO如何分布式运算？"
 
-date:       2022-08-31 12:00:00
-
 author:     "Jinghao"
 
 hidden: false

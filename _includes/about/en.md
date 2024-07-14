@@ -1,6 +1,11 @@
 **Hi, I'm Xin Jinghao (or Cangxi on Social Media), a PhD student currently being tortured by the graduation season...**
 
-> I'm currently job hunting. If you have any good job recommendations, please contact me!! [xjhzsj2019@sjtu.edu.cn](mailto:xjhzsj2019@sjtu.edu.cn)
+> I'm currently job hunting. If you have any good job recommendations, please contact me!! 
+>
+> [xjhzsj2019@sjtu.edu.cn](mailto:xjhzsj2019@sjtu.edu.cn)
+>
+> [Resume](https://maipdf.cn/est/d669394f53c155/pdf)
+
 
 -----------
 
@@ -8,7 +13,7 @@ I'm currently studying in the Department of Automation at Shanghai Jiao Tong Uni
 
 
 
-I love motocycle and adventure. I've solo motorcycle toured 8000 Km+. The most unforgettable cycling trip was from Chongqing back to Shanghai starting on 2022/08/20, right after the pandemic ended. It was my first motorcycle tour, and I felt like a little bird~
+I love motocycle and adventure. I've solo motorcycle toured 8000 Km+. [The most unforgettable cycling trip][9] was from Chongqing back to Shanghai starting on 2022/08/20, right after the pandemic ended. It was my first motorcycle tour, and I felt like a little bird~
 
 
 
@@ -82,3 +87,5 @@ I like collecting rocks. Every time I reach a new place, I pick up a rock from t
 [7]:https://ieeexplore.ieee.org/document/9931242
 
 [8]:https://journals.sagepub.com/doi/10.1177/09596518211056165
+
+[9]:https://www.douyin.com/user/self?modal_id=7136521899089104164&showTab=post

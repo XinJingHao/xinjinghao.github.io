@@ -38,5 +38,5 @@ tags:
 
 <div align="center">
 <a ><img width="800px" height="auto" src="/img/in-post/zjj_realworld.png"></a>
-<p style="color: gray;">图 2  ASL高性能强化学习训练框架</p>
+<p style="color: gray;">图 2  中间件企业应用场景</p>
 </div>

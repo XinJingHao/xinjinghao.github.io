@@ -51,5 +51,5 @@ tags:
 <p style="color: gray;">图 3 动态先验初始化机制</p>
 </div>
 
-[1]:https://xinjinghao.github.io/2023/12/28/paper-sepso/
+[1]:https://https://xinjinghao.online/2023/12/22/paper-sepso/
 [2]:https://github.com/XinJingHao/OkayPlan

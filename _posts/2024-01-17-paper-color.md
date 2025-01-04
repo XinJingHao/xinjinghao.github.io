@@ -21,11 +21,11 @@ tags:
 
 ### Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and ectorized Diversity
 
-- **期刊：** Engineering Applications of Artificial Intelligence [Q1, TOP, IF:7.5, 一修]
+- **期刊：** Engineering Applications of Artificial Intelligence
 
 - **作者：** **Xin J**, Kim J, Li Z, et al.
 
-- **时间：** 2024
+- **时间：** 2025
 
 - **项目链接：** [https://github.com/XinJingHao/Color][1]
 

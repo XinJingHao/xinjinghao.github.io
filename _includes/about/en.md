@@ -13,7 +13,7 @@
 - 2019 --- Shanghai Jiao Tong University, embarking on the PhD journey
 - 2023 --- Nanyang Technological University, as a visting student in Singapore, dialoguing with myself in solitude
 - 2024 --- Back to SJTU, preparing for graduation, time to show my true skills
-  Some
+- 2025 --- Get married with her. 8 years.
 
 ##### My Passion Projects
 

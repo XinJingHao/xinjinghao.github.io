@@ -17,21 +17,21 @@ tags:
 
 ---
 <p align="center">
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case2.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case_cd.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V3/N10.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/raw/main/Sparrow_V2/case2.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/raw/main/Sparrow_V2/case_cd.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/raw/main/Sparrow_V3/N10.gif" width="250" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse1.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse2.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse3.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/raw/main/ColorDynamic/warehouse1.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/raw/main/ColorDynamic/warehouse2.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/raw/main/ColorDynamic/warehouse3.gif" width="250" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real1.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real2.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real3.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/raw/main/Sparrow_V2/real1.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/raw/main/Sparrow_V2/real2.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/raw/main/Sparrow_V2/real3.gif" width="250" />
 </p>
 
 

@@ -1,26 +1,5 @@
 **Hi, I'm Xin Jinghao (or Cangxi on Social Media), a PhD student currently being tortured by the graduation season...**
 
-> I'm currently job hunting. If you have any good job recommendations, please contact me!! 
->
-> [xjhzsj2019@sjtu.edu.cn](mailto:xjhzsj2019@sjtu.edu.cn)
->
-> [Resume](https://maipdf.cn/est/d669394f53c155/pdf)
-
-
------------
-
-I'm currently studying in the Department of Automation at Shanghai Jiao Tong University, with research areas in end-to-end local path planning (deep reinforcement learning) and real-time global path planning (optimization algorithms).
-
-
-
-I love motocycle and adventure. I've solo motorcycle toured 8000 Km+. [The most unforgettable cycling trip][9] was from Chongqing back to Shanghai starting on 2022/08/20, right after the pandemic ended. It was my first motorcycle tour, and I felt like a little bird~
-
-
-
-I like collecting rocks. Every time I reach a new place, I pick up a rock from there. I hope to gather rocks from all around the world, place them in my display cabinet, and label them with tags and photos.
-
-
-
 > "I love the desert, the desert enveloped by the setting sun"
 > "I love the wind, the evening breeze carrying freedom"
 
@@ -40,17 +19,28 @@ I like collecting rocks. Every time I reach a new place, I pick up a rock from t
 
 - **[Deep-Reinforcement-Learning-Algorithms-with-Pytorch](https://github.com/XinJingHao/Deep-Reinforcement-Learning-Algorithms-with-Pytorch)**
 
+- **[ColorDynamic](https://github.com/XinJingHao/ColorDynamic)**
+
 - **[Color](https://github.com/XinJingHao/Color)**
 
 - **[Sparrow-V1](https://github.com/XinJingHao/Sparrow-V1)**
+
+- **[Sparrow-V2](https://github.com/XinJingHao/Sparrow-V2)**
+
+- **[Sparrow-V3](https://github.com/XinJingHao/Sparrow-V3)**
 
 - **[Actor-Sharer-Learner](https://github.com/XinJingHao/Actor-Sharer-Learner)**
 
 - **[OkayPlan](https://github.com/XinJingHao/OkayPlan)**
 
+- **[OPCD Navigation System](https://github.com/XinJingHao/OPCD-Navigation)**
+
+
 ##### Publications
 
-- [Xin J, Kim J, Li Z, et al. Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity. Engineering Applications of Artificial Intelligence.][1] 「Under Review」
+- [Xin J, Liang Z, Zhang Z, et al. ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments.][10]
+
+- [Xin J, Kim J, Li Z, et al. Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity[J]. Engineering Applications of Artificial Intelligence, 2025, 141: 109726.][1] 
 
 - [Xin J, Kim J, Chu S, et al. OkayPlan: Obstacle Kinematics Augmented Dynamic real-time path planning via particle swarm optimization[J]. Ocean Engineering, 2024, 303: 117841.][2]
 
@@ -72,7 +62,7 @@ I like collecting rocks. Every time I reach a new place, I pick up a rock from t
 - [掘金 AMA：我是前端娱乐圈的老人 & Facebook 实习生 -- 黄玄][19] · 2018
 -->
 
-[1]: https://arxiv.org/abs/2305.04180
+[1]:https://www.sciencedirect.com/science/article/abs/pii/S0952197624018840
 
 [2]:https://www.sciencedirect.com/science/article/abs/pii/S002980182401179X
 
@@ -89,3 +79,5 @@ I like collecting rocks. Every time I reach a new place, I pick up a rock from t
 [8]:https://journals.sagepub.com/doi/10.1177/09596518211056165
 
 [9]:https://www.douyin.com/user/self?modal_id=7136521899089104164&showTab=post
+
+[10]:https://arxiv.org/abs/2502.19892

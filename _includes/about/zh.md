@@ -1,18 +1,5 @@
 **Hi, It's 辛靖豪（or 苍溪 on Social Media ）, 一个正在被毕业季折磨的博士研究生...**
 
-> 近期正在找工作，如果你有好的工作推荐，请联系我！！ 
->
-> [xjhzsj2019@sjtu.edu.cn](mailto:xjhzsj2019@sjtu.edu.cn)
->
-> [我的简历](https://maipdf.cn/est/d669394f53c155/pdf)
-
-----------------------
-
-我就读于上海交通大学自动化系，研究领域为端到端局部路径规划（深度强化学习）、实时全局路径规划（优化算法），经常在上海、重庆区域出没。
-
-我热爱骑行，喜欢探险，已独自摩旅8000 Km+ 。[最难忘的一次骑行][9]是从2022/08/20从重庆骑行回上海，当时疫情刚结束，也是我的第一次摩旅，心情就像一只小鸟\~
-
-我喜欢收集石头，每到一个新的地方，我都会捡一块那里的石头。我想把世界各地的石头都搜集起来，放到我的展示柜里，为他们加上标签和照片。
 
 > "我喜欢沙漠，被落日包裹的沙漠"
 > 
@@ -33,17 +20,27 @@
 
 - **[Deep-Reinforcement-Learning-Algorithms-with-Pytorch](https://github.com/XinJingHao/Deep-Reinforcement-Learning-Algorithms-with-Pytorch)**
 
+- **[ColorDynamic](https://github.com/XinJingHao/ColorDynamic)**
+
 - **[Color](https://github.com/XinJingHao/Color)**
 
 - **[Sparrow-V1](https://github.com/XinJingHao/Sparrow-V1)**
+
+- **[Sparrow-V2](https://github.com/XinJingHao/Sparrow-V2)**
+
+- **[Sparrow-V3](https://github.com/XinJingHao/Sparrow-V3)**
 
 - **[Actor-Sharer-Learner](https://github.com/XinJingHao/Actor-Sharer-Learner)**
 
 - **[OkayPlan](https://github.com/XinJingHao/OkayPlan)**
 
+- **[OPCD Navigation System](https://github.com/XinJingHao/OPCD-Navigation)**
+
 ##### 学术成果
 
-- [Xin J, Kim J, Li Z, et al. Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity. Engineering Applications of Artificial Intelligence.][1] 「Under Review」
+- [Xin J, Liang Z, Zhang Z, et al. ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments.][10]
+
+- [Xin J, Kim J, Li Z, et al. Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity[J]. Engineering Applications of Artificial Intelligence, 2025, 141: 109726.][1] 
 
 - [Xin J, Kim J, Chu S, et al. OkayPlan: Obstacle Kinematics Augmented Dynamic real-time path planning via particle swarm optimization[J]. Ocean Engineering, 2024, 303: 117841.][2]
 
@@ -65,7 +62,7 @@
 - [掘金 AMA：我是前端娱乐圈的老人 & Facebook 实习生 -- 黄玄][19] · 2018
 -->
 
-[1]: https://arxiv.org/abs/2305.04180
+[1]:https://www.sciencedirect.com/science/article/abs/pii/S0952197624018840
 
 [2]:https://www.sciencedirect.com/science/article/abs/pii/S002980182401179X
 
@@ -82,3 +79,5 @@
 [8]:https://journals.sagepub.com/doi/10.1177/09596518211056165
 
 [9]:https://www.douyin.com/user/self?modal_id=7136521899089104164&showTab=post
+
+[10]:https://arxiv.org/abs/2502.19892

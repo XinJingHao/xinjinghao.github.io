@@ -11,7 +11,7 @@ hidden: false
 
 catalog: false
 
-header-img: "img/post-bg/JiangXi_bg.jpg"
+header-img: "img/post-bg/maldives_bg.jpg"
 
 tags:
 

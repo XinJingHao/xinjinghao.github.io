@@ -1,4 +1,4 @@
-**Hi, It's 辛靖豪（or 苍溪 on Social Media ）, 一个正在被毕业季折磨的博士研究生...**
+**Hi, It's 辛靖豪**
 
 
 > "我喜欢沙漠，被落日包裹的沙漠"
@@ -16,6 +16,8 @@
 - 2023 --- 南洋理工大学，付新加坡访学，在孤独中与自己对话
 - 2024 --- 重回交大，准备毕业，是时候展现真正的技术了
 - 2025 --- 和她结婚了，8年走来不容易啊...
+- 2025 --- 博士毕业，20年学生生涯 Done.
+- 2025 --- 加入华为ADS，人生第一份工作
 
 ##### 一些我很用心的Project
 
@@ -49,6 +51,8 @@
 
 - [Xin J, Yu L, Wang J, et al. A diversity-based parallel particle swarm optimization for nonconvex economic dispatch problem[J]. Transactions of the Institute of Measurement and Control, 2023, 45(3): 452-465.][4]
 
+- [Lin Y, Xin J, Zhang R, et al. A multi-objective deep reinforcement learning framework for energy efficiency of autonomous harbor crafts[J]. Applied Energy, 2025, 401: 126809.][11]
+
 - [Li Z, Xin J, Lil N. Autonomous exploration and mapping for mobile robots via cumulative curriculum reinforcement learning[C]//2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 7495-7500.][5]
 
 - [Li Z, Xin J, Li N. End-to-end autonomous exploration for mobile robots in unknown environments through deep reinforcement learning[C]//2022 IEEE International Conference on Real-time Computing and Robotics. IEEE, 2022: 475-480.][6]
@@ -59,9 +63,7 @@
 
 - 辛靖豪,于丽英,李柠. 并行异步粒子群优化方法,系统及电子设备, CN112949154B.
 
-<!--
-- [掘金 AMA：我是前端娱乐圈的老人 & Facebook 实习生 -- 黄玄][19] · 2018
--->
+
 
 [1]:https://www.sciencedirect.com/science/article/abs/pii/S0952197624018840
 
@@ -82,3 +84,5 @@
 [9]:https://www.douyin.com/user/self?modal_id=7136521899089104164&showTab=post
 
 [10]:https://arxiv.org/abs/2502.19892
+
+[11]:https://doi.org/10.1016/j.apenergy.2025.126809

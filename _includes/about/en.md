@@ -1,4 +1,4 @@
-**Hi, I'm Xin Jinghao (or Cangxi on Social Media), a PhD student currently being tortured by the graduation season...**
+**Hi, It's Xin Jinghao**
 
 > "I love the desert, the desert enveloped by the setting sun"
 > "I love the wind, the evening breeze carrying freedom"
@@ -14,6 +14,8 @@
 - 2023 --- Nanyang Technological University, as a visting student in Singapore, dialoguing with myself in solitude
 - 2024 --- Back to SJTU, preparing for graduation, time to show my true skills
 - 2025 --- Get married with her. 8 years.
+- 2025 --- PhD graduation, 20 years of student life Done.
+- 2025 --- Join Huawei ADS, my first job.
 
 ##### My Passion Projects
 
@@ -48,6 +50,8 @@
 
 - [Xin J, Yu L, Wang J, et al. A diversity-based parallel particle swarm optimization for nonconvex economic dispatch problem[J]. Transactions of the Institute of Measurement and Control, 2023, 45(3): 452-465.][4]
 
+- [Lin Y, Xin J, Zhang R, et al. A multi-objective deep reinforcement learning framework for energy efficiency of autonomous harbor crafts[J]. Applied Energy, 2025, 401: 126809.][11]
+
 - [Li Z, Xin J, Lil N. Autonomous exploration and mapping for mobile robots via cumulative curriculum reinforcement learning[C]//2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 7495-7500.][5]
 
 - [Li Z, Xin J, Li N. End-to-end autonomous exploration for mobile robots in unknown environments through deep reinforcement learning[C]//2022 IEEE International Conference on Real-time Computing and Robotics. IEEE, 2022: 475-480.][6]
@@ -81,3 +85,5 @@
 [9]:https://www.douyin.com/user/self?modal_id=7136521899089104164&showTab=post
 
 [10]:https://arxiv.org/abs/2502.19892
+
+[11]:https://doi.org/10.1016/j.apenergy.2025.126809
